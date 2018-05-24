@@ -1,0 +1,41 @@
+.header-tab {
+    background: #4aaaa5;
+    float: left;
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+}
+
+.header {
+    font-family: "Georgia" , 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+
+.about {
+    float: right;
+    padding: 5px 5px 5px 5px;
+}
+
+.portfolio {
+    float: right;
+    padding: 5px 5px 5px 5px;
+}
+
+.contact {
+    float: right;
+    padding: 5px 5px 5px 5px;
+}
+
+p   {
+    color: #777777;
+    line-height: 2.0;
+}
+
+.about-me {
+    color: #4aaaa5;
+    text-decoration: underline;
+}
+
+.portfolio-heading {
+    color: #4aaaa5;
+}
